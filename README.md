@@ -22,6 +22,7 @@ Getting Started 🚀
 To explore these valuable resources, clone this repository and check out the individual project folders:
 
 git clone https://github.com/yourusername/LabWaterQuality.git
+
 cd LabWaterQuality
 
 Contributions 🤝
